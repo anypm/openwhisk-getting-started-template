@@ -1,4 +1,4 @@
-# Getting Started with OpenWhisk and Serverless APIs
+# Getting Started with OpenWhisk with a Sample Application
 This project provides sample code for creating an application with Apache OpenWhisk on IBM Bluemix. It should take no more than 10 minutes to get up and running. Once you complete this sample application, you can move on to more complex serverless application use cases.
 
 # Overview of sample application (image)
