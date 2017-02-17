@@ -13,7 +13,16 @@ To come.
 # Installation
 Setting up this sample involves configuration of OpenWhisk on IBM Bluemix. [If you haven't already signed up for Bluemix and configured OpenWhisk, review those steps first](docs/OPENWHISK.md).
 
-### Set up supporting service
+### Set up supporting service, such as Cloudant
+To come.
+
+### Bind the service to OpenWhisk, if applicable
+To come.
+
+### Create OpenWhisk actions, triggers, and rules
+To come.
+
+### Perform any other configuration needed
 To come.
 
 ### Use the `deploy.sh` script to automate the steps above
