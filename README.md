@@ -1,4 +1,4 @@
-# OpenWhisk 101 - Sample Application Template
+# OpenWhisk building block - Sample Application Template
 This project provides sample code for creating an application with Apache OpenWhisk on IBM Bluemix. It should take no more than 10 minutes to get up and running. Once you complete this sample application, you can move on to more complex serverless application use cases, such as those named _OpenWhisk 201_ or tagged as [_openwhisk-use-cases_](https://github.com/search?q=topic%3Aopenwhisk-use-cases+org%3AIBM&type=Repositories).
 
 # Overview of the sample application (image)
